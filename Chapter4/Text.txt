@@ -1,0 +1,2 @@
+static_cast<int>(5.5) type casting uygulanacak degiskenin type araliginda olmasina dikkat edilir.
+
